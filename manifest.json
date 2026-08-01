@@ -3,7 +3,7 @@
   "name": "Bastion",
   "version": "1.0.0",
   "minAppVersion": "1.5.0",
-  "description": "Vault manager and AI assistant — the same dashboard as the Bastion web app, running inside Obsidian.",
+  "description": "Vault manager and AI assistant — the same dashboard as the Bastion web app, running inside Obsidian. (Closed source)",
   "author": "Chad Kirkendall",
   "authorUrl": "https://getbastion.app",
   "isDesktopOnly": false
