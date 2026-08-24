@@ -4,23 +4,49 @@ This repository distributes compiled releases of the Bastion Obsidian plugin
 ("the Software") for use exclusively within the Obsidian application
 (https://obsidian.md), subject to the following terms:
 
-1. You may install and use the Software within Obsidian, including as part
-   of a paid Bastion subscription, for your own personal or organizational
+1. Grant of use. Subject to these terms, and for as long as you hold an
+   active, paid Bastion subscription in good standing, Idlehour LLC grants
+   you a limited, non-exclusive, non-transferable license to install and
+   use the Software within Obsidian for your own personal or organizational
    use.
 
-2. You may NOT copy, modify, decompile, reverse engineer, redistribute,
-   sublicense, resell, or create derivative works based on the Software,
-   in whole or in part, except to the extent such restriction is prohibited
-   by applicable law.
+2. Restrictions. You may NOT copy, modify, decompile, reverse engineer,
+   redistribute, sublicense, resell, or create derivative works based on
+   the Software, in whole or in part, except to the extent such
+   restriction is prohibited by applicable law.
 
-3. The Software's source code is not published in this repository and
-   remains the proprietary, confidential property of Idlehour LLC.
+3. Source code. The Software's source code is not published in this
+   repository and remains the proprietary, confidential property of
+   Idlehour LLC.
 
-4. The Software is provided "AS IS", without warranty of any kind, express
-   or implied, including but not limited to the warranties of
-   merchantability, fitness for a particular purpose, and noninfringement.
-   In no event shall Idlehour LLC be liable for any claim, damages, or
-   other liability arising from, out of, or in connection with the
-   Software or the use or other dealings in the Software.
+4. Termination. This license terminates automatically, without notice, if
+   you breach any term above, or when your paid subscription ends for any
+   reason. Upon termination you must stop using the Software and delete
+   all copies in your possession.
 
-For licensing inquiries, contact Idlehour LLC.
+5. Remedies. Any use of the Software outside the terms of this license is
+   copyright infringement. Idlehour LLC may seek injunctive relief and any
+   damages available under applicable law, in addition to any other remedy
+   available to it.
+
+6. Reporting infringement. If you believe a copy of the Software is being
+   distributed, modified, or redistributed in violation of this license —
+   including on GitHub or any other third-party service — contact
+   chad@getbastion.app. This includes DMCA takedown requests for
+   infringing copies hosted on third-party services.
+
+7. Disclaimer. The Software is provided "AS IS", without warranty of any
+   kind, express or implied, including but not limited to the warranties
+   of merchantability, fitness for a particular purpose, and
+   noninfringement. In no event shall Idlehour LLC be liable for any
+   claim, damages, or other liability arising from, out of, or in
+   connection with the Software or the use or other dealings in the
+   Software.
+
+8. Governing law. This license is governed by the laws of the State of
+   Georgia, USA, without regard to its conflict-of-laws principles. Any
+   dispute arising from this license or the Software shall be brought
+   exclusively in the state or federal courts located in Georgia, and you
+   consent to personal jurisdiction there.
+
+For licensing inquiries, contact chad@getbastion.app.
