@@ -12,12 +12,10 @@ releases only — see [LICENSE](LICENSE).
 
 ## Installing
 
-### Option 1 — BRAT (recommended until Bastion is on the Community Plugins list)
+### Option 1 — Community Plugins (recommended)
 
-1. Install [BRAT](https://github.com/TfTHacker/obsidian42-brat) from Obsidian's Community Plugins.
-2. Open BRAT's settings → **Add Beta Plugin**.
-3. Paste this repo's URL: `https://github.com/nerdsanddragons/bastion-obsidian-plugin`
-4. Enable **Bastion** under Community Plugins once BRAT installs it.
+1. In Obsidian, open **Settings → Community plugins → Browse**, and search for **Bastion**.
+2. Click **Install**, then **Enable**.
 
 ### Option 2 — Manual install
 
