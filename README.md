@@ -1,5 +1,7 @@
 # Bastion for Obsidian
 
+![Bastion Dashboard](screenshot.png)
+
 Bastion turns your Obsidian vault into a full command center — AI search, tasks,
 projects, a calendar, and dashboards — without asking you to restructure a
 single note. Everything reads from and writes back to plain Markdown files
