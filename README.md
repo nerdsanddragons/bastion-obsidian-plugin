@@ -10,6 +10,27 @@ Learn more, and start a 14-day free trial, at **[getbastion.app](https://www.get
 **This plugin is closed source.** This repository distributes compiled
 releases only — see [LICENSE](LICENSE).
 
+## Features
+
+- **Dashboard** — customizable widget grid (drag/resize/hide), per-widget backgrounds, chart-type switching
+- **Today / Planning Surface** — daily planning view, task scheduling
+- **Vault Explorer** — browse, read, and edit notes without leaving the dashboard
+- **AI Assistant** — chat against your vault's own content, 7 providers
+- **Calendar** — month/week/day views, synced from Google, Apple, or Microsoft/Exchange
+- **Task Tracker** — synced from 12 sources (Todoist, Apple Reminders, Asana, ClickUp, Jira, Linear, Monday.com, Trello, GitHub Issues, Google Tasks, Microsoft To Do, TickTick)
+- **Projects** — kanban boards, gantt timelines, progress tracking
+- **Pomodoro** — timers with real Flowtime (open-ended) mode, idle detection, task linking
+- **Finance** *(Pro)* — wallets, budgets with rollover, savings goals, upcoming bills, month-to-month trends, insights
+- **Commerce Dashboards** *(Pro)* — multi-instance store analytics (Etsy, Stripe, Shopify, Gumroad, Lemon Squeezy), each with its own layout
+- **Invoices** — create, template, and print-to-PDF, right from the vault
+- **Social Media Analytics** *(Pro)* — engagement/follower tracking across YouTube, Instagram, Facebook, X, TikTok, Dribbble
+- **Contacts / Companies / Relationships** *(Pro)* — a lightweight CRM synced from Google/Apple/Exchange contacts
+- **Web Browser** — an in-app browser tab for research without leaving the dashboard
+- **Terminal** — a real PTY-backed terminal panel, not a fake console
+
+Multiple panels can be docked side-by-side (desktop), with saved workspace presets
+(Focus Mode, custom layouts) and full light/dark theming.
+
 ## Installing
 
 ### Option 1 — Community Plugins (recommended)
