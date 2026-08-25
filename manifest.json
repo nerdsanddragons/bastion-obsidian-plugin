@@ -1,7 +1,7 @@
 {
   "id": "bastion",
   "name": "Bastion",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "minAppVersion": "1.5.0",
   "description": "Vault manager and AI assistant \u2014 the same dashboard as the Bastion web app. (Closed source).",
   "author": "Chad Kirkendall",
