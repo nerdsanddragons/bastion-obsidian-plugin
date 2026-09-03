@@ -22,13 +22,15 @@ releases only — see [LICENSE](LICENSE).
 - **Task Tracker** — synced from 12 sources (Todoist, Apple Reminders, Asana, ClickUp, Jira, Linear, Monday.com, Trello, GitHub Issues, Google Tasks, Microsoft To Do, TickTick)
 - **Projects** — kanban boards, gantt timelines, progress tracking
 - **Pomodoro** — timers with real Flowtime (open-ended) mode, idle detection, task linking
-- **Finance** *(Pro)* — wallets, budgets with rollover, savings goals, upcoming bills, month-to-month trends, insights
+- **CRM** *(Pro)* — contacts, companies, and a deals pipeline in one dashboard, synced from Google/Apple/Exchange contacts, with email thread history and AI-assisted create/update
+- **Finance** *(Pro)* — wallets, budgets with rollover, savings goals, cash-flow forecasting, net worth tracking, a bill-triage view, and PDF/receipt import with AI-read transactions
 - **Commerce Dashboards** *(Pro)* — multi-instance store analytics (Etsy, Stripe, Shopify, Gumroad, Lemon Squeezy), each with its own layout
-- **Invoices** — create, template, and print-to-PDF, right from the vault
+- **Invoices** — 20 built-in layouts with a theme editor, e-signatures, and print-to-PDF, right from the vault
 - **Social Media Analytics** *(Pro)* — engagement/follower tracking across YouTube, Instagram, Facebook, X, TikTok, Dribbble
-- **Contacts / Companies / Relationships** *(Pro)* — a lightweight CRM synced from Google/Apple/Exchange contacts
-- **Web Browser** — an in-app browser tab for research without leaving the dashboard
-- **Terminal** — a real PTY-backed terminal panel, not a fake console
+- **Knowledge Base** — capture articles, notes, and videos into a searchable, AI-organized wiki, stored entirely in your vault
+- **Journal** — guided writing templates, mood tracking, streaks, and "on this day" memories
+- **Web Browser** — an in-app browser tab that can clip pages straight into your Knowledge Base
+- **Terminal** — a real PTY-backed terminal panel, not a fake console (Windows Terminal now bundles its own Node runtime — no separate install needed)
 
 Multiple panels can be docked side-by-side (desktop), with saved workspace presets
 (Focus Mode, custom layouts) and full light/dark theming.
