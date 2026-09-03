@@ -16,7 +16,7 @@ releases only — see [LICENSE](LICENSE).
 
 - **Dashboard** — customizable widget grid (drag/resize/hide), per-widget backgrounds, chart-type switching
 - **Today / Planning Surface** — daily planning view, task scheduling
-- **Vault Explorer** — browse, read, and edit notes without leaving the dashboard
+- **Vault Explorer** — browse, read, and edit notes, plus an Inbox / Health / Rules workflow for capturing new material into a searchable, AI-organized Knowledge Base and keeping it tidy
 - **AI Assistant** — chat against your vault's own content, 7 providers
 - **Calendar** — month/week/day views, synced from Google, Apple, or Microsoft/Exchange
 - **Task Tracker** — synced from 12 sources (Todoist, Apple Reminders, Asana, ClickUp, Jira, Linear, Monday.com, Trello, GitHub Issues, Google Tasks, Microsoft To Do, TickTick)
@@ -27,7 +27,7 @@ releases only — see [LICENSE](LICENSE).
 - **Commerce Dashboards** *(Pro)* — multi-instance store analytics (Etsy, Stripe, Shopify, Gumroad, Lemon Squeezy), each with its own layout
 - **Invoices** — 20 built-in layouts with a theme editor, e-signatures, and print-to-PDF, right from the vault
 - **Social Media Analytics** *(Pro)* — engagement/follower tracking across YouTube, Instagram, Facebook, X, TikTok, Dribbble
-- **Knowledge Base** — capture articles, notes, and videos into a searchable, AI-organized wiki, stored entirely in your vault
+- **News** — a personalized industry feed from sources you configure, AI-ranked, with thumbs-down feedback and save-for-later
 - **Journal** — guided writing templates, mood tracking, streaks, and "on this day" memories
 - **Web Browser** — an in-app browser tab that can clip pages straight into your Knowledge Base
 - **Terminal** — a real PTY-backed terminal panel, not a fake console (Windows Terminal now bundles its own Node runtime — no separate install needed)
