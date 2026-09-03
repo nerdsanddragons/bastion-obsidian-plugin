@@ -1,9 +1,9 @@
 {
   "id": "bastion",
   "name": "Bastion",
-  "version": "1.1.12",
+  "version": "1.2.0",
   "minAppVersion": "1.5.0",
-  "description": "Vault manager and AI assistant \u2014 the same dashboard as the Bastion web app. (Closed source).",
+  "description": "Command center for your vault, built for ADHD and neurodivergent brains: AI over your own notes, tasks from 12 apps, calendar, and dashboards. No vault restructuring. (Closed source).",
   "author": "Chad Kirkendall",
   "authorUrl": "https://getbastion.app",
   "isDesktopOnly": false
